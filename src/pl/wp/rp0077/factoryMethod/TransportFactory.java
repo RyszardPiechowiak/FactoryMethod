@@ -1,4 +1,4 @@
-package pl.wp.rp0077.transport;
+package pl.wp.rp0077.factoryMethod;
 
 public class TransportFactory {
     public static final String TRUCK = "truck";
